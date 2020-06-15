@@ -4,7 +4,7 @@
 [Homepage](https://combas.info/)
 
 ## Zusammenfassung:
-ComBaS soll gegen negative effekte der Telefonie mit dem Handy vorbeugen,
+ComBaS soll gegen negative Effekte der Telefonie mit dem Handy vorbeugen,
 diese Effekte beinhalten:
 * Geldrolleneffekt --> Rote Blutkörperchen kleben aneinander
 * Eingeschränkte Sauerstoffaufnahme
