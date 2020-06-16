@@ -15,17 +15,6 @@ Indem man dieses Kunstwerk beim Schlafen neben den Kopf legt verhindert es Mück
 
 ###Erklärung des 'Sinuszeichen':
 Das Sinuszeichen ist eines der häufiger anzutreffenden 'Heilzeichen'.
-Es handelt sich dabei um eine Sinuswelle die ungefähr so aussieht:
-   \---
-  \*   \*
- /     \\
-/       \\
-\--------\\-----------------------
-          \\   
-           \\
-            \\   /
-             \---  
-[ASCII art einer Sinuswelle, Optisch inkorrekt]
 *Das genaue Zeichen findet man bei sekunde 53 im Video*
 
 ## Wirkungsweise:
