@@ -9,7 +9,7 @@ diese Effekte beinhalten:
 * Geldrolleneffekt --> Rote Blutkörperchen kleben aneinander
 * Eingeschränkte Sauerstoffaufnahme
 
-## Angebliche Vorteile
+## Angebliche Vorteile:
 Das ComBaS ist eine Art Pflaster mit einem angeblichen Schutzradius von 60cm und
 soll in diesem die gennanten negativen Effekte negieren
 

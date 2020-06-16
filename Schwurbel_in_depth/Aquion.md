@@ -11,7 +11,7 @@ Ihre Version der Wasserbelebung klingt so:
 verwandelt es in kraftvolles AktivWasser. Wasserstoff gilt als Energiebringer und
 als Treibstoff des Lebens.
 
-## Belebungs-Prozess
+## Belebungs-Prozess:
 Der ganze 'belebungs-Prozess' wird von Aquion in 4 Schritte unterteilt:
 
 * Renaturieren -->Das Aquion Quellwasser-Modul verwirbelt das Wasser und macht es quirlig, frisch und lebendig.

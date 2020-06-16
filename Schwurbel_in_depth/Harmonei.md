@@ -21,7 +21,7 @@ Effekte in nur 10 minuten, verifiziert von einem "unabhänigen" Arzt:
 * Stress-Index von 221 auf 100 zurück.
 * Das biologische Alter der Probandin reduzierte sich um viele Jahre!
 
-## Legitimierung
+## Legitimierung:
 [Paraphrasiert und gekürzt]
 >"[viele haben das Gefühl], dass [...] Wirrwarr von künstlichen elektromagnetischen Feldern,[...] nicht gut tut"
 

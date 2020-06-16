@@ -11,5 +11,5 @@ Das Logo des Vereins beinhaltet nun eine Karte der Flachen Erde.
 Übersetzt ist die erste Aussage auf der Webseite folgende:
 >Der erste Club der Welt, der sich für die Verbreitung der Wahrheit über die Welt, in der wir leben, einsetzt.
 
-## Sonstiges
+## Sonstiges:
 Bis auf den Namen ändert sich nichts, deswegen gibte es bis auf die Zsammenfassung nichts interessantes zu erzählen.
