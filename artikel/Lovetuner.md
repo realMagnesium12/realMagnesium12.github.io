@@ -23,8 +23,8 @@ Der Lovetuner kann laut Hersteller das Folgende:
 ## Wirkungsweise:
 Durch die Frequenz von 528hz [Frequenz der Liebe] beginnt eine energetische Transformation und erhöht die  Schwingung des feinstofflichen Systems.
 Das soll unterstützen Liebe und in Harmonie zu fühlen. Je harmonischer ein System seu, desto wohler, gesünder und entspannter währe man.
-Um Optimale funktion zu erhalten müsse der Lovetuner also regelmäßig Energetisch greinigt werden.
 
 ## Energetische Reinigung:
-Um den Lovetuner zu reinigen reicht es diesen über Nacht neben einen Bergkristall oder Rosenquarz zu legen, je höher
+Um Optimale funktion zu erhalten müsse der Lovetuner also regelmäßig Energetisch greinigt werden,
+zum reinigen reicht es diesen über Nacht neben einen Bergkristall oder Rosenquarz zu legen, je höher
 die Qualität der Steine desto effizienter sei die reinigung.
