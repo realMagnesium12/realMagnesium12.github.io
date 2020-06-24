@@ -17,7 +17,7 @@
 | 154   | Wirkung der Wasserbelebung wiss. nachgewiesen |[grander.com](https://www.grander.com/international/grander-wasser-news/wirkung-der-grander-wasserbelebung-wissenschaftlich-nachgewiesen)
 | 153   | Die Einhandrute |[amazon.de](https://amzn.to/2N3eUnw)
 | 152   | Homeopathie zum aufmalen |[amazon.de](https://amzn.to/2pOJ5ac)
-| 151   | Silent Healing |[ascension-support-tools.com](https://ascension-support-tools.com/silent-healing-cd.aspx?cookieCheck=true)
+| 151   | [Silent Healing](article/SilentHealing) |[ascension-support-tools.com](https://ascension-support-tools.com/silent-healing-cd.aspx?cookieCheck=true)
 | 150   | Das Tantra Edelstein-Ei (von Tim) |[herz-und-geist.de](https://www.herz-und-geist.de/yoni-ei/)
 | 149   | [Bioresonanzgeräte](article/Bioresonanzgeräte) |[amazon.de](https://amzn.to/2TseB8J), [youtube.com](https://www.youtube.com/watch?v=XsIpFRJmPOM), [link.springer.com](https://link.springer.com/article/10.1007/s15007-019-1859-0)
 | 148   | [Der Lovetuner](article/Lovetuner) |[heavenseven.ch](https://www.heavenseven.ch/)
