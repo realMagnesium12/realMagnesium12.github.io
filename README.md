@@ -19,7 +19,7 @@
 | 152   | Homeopathie zum aufmalen |[amazon.de](https://amzn.to/2pOJ5ac)
 | 151   | Silent Healing |[ascension-support-tools.com](https://ascension-support-tools.com/silent-healing-cd.aspx?cookieCheck=true)
 | 150   | Das Tantra Edelstein-Ei (von Tim) |[herz-und-geist.de](https://www.herz-und-geist.de/yoni-ei/)
-| 149   | Bioresonanzgeräte |[amazon.de](https://amzn.to/2TseB8J), [youtube.com](https://www.youtube.com/watch?v=XsIpFRJmPOM), [link.springer.com](https://link.springer.com/article/10.1007/s15007-019-1859-0)
+| 149   | [Bioresonanzgeräte](article/Bioresonanzgeräte) |[amazon.de](https://amzn.to/2TseB8J), [youtube.com](https://www.youtube.com/watch?v=XsIpFRJmPOM), [link.springer.com](https://link.springer.com/article/10.1007/s15007-019-1859-0)
 | 148   | [Der Lovetuner](article/Lovetuner) |[heavenseven.ch](https://www.heavenseven.ch/)
 | 147   | [Flat Earth FC](artikel/FlatearthFC) |[flatearthfc.com](https://flatearthfc.com/)
 | 146   | [Lästige Mücken und neue Homöopathie](artikel/laestigeMueckenUndNeueHomoeopathie) |[antenne.de](https://www.antenne.de/experten-tipps/gesundheit/mueckenplage-in-bayern-hier-ist-sie-besonders-laestig-und-welcher-trick-wunder-wirkt?jwsource=cl)
